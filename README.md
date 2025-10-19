@@ -135,11 +135,10 @@ All outputs were independently verified against actual data and metrics.
 │   ├── model_training_randomforest.ipynb
 │   └── evaluation_visualization.ipynb
 ├── results/
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-│   └── model_metrics.csv
+│   ├── confusion_matrix
+│   ├── feature_importance
+│   └── model_metrics
 ├── README.md
-└── requirements.txt
 ```
 
 ---
